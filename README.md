@@ -12,7 +12,7 @@ Initial release.
 No updates.<br /><br />
 0 Major Changes<br />
 0 Minor Changes<br />
-###### 1 Maintenance Improvement<br />
+##### 1 Maintenance Improvement<br />
 0 Bug Fixes
 
 ## v1.0.0.0 Certified
