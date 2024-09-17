@@ -5,7 +5,7 @@ cynthia@sio2graphs.com
 www.sio2graphs.com  
 easy, effective, aesthetic
 
-## v1.0.1.0 Certified
+## v1.0.2.0 Certified
 ###### Published 9/2024  
 Initial release.  
 ###### Updates
