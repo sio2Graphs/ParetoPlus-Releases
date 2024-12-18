@@ -13,10 +13,10 @@ Customer found bug when trying to apply color to each bar.<br /><br />
 0 Major Changes<br />
 0 Minor Changes<br />
 ##### 2 Maintenance Improvements<br />
-Update React root.  
+Update React Root.  
 Update packages.
 ##### 1 Bug Fix<br />
-Update barPicker name, in order for bar color to save properly.
+Fix barPicker name, in order for bar color to save properly.
 
 ## v1.0.2.0 Certified
 ###### Published 9/2024  
