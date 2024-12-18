@@ -7,7 +7,7 @@ easy, effective, aesthetic
 
 ## v1.0.4.1 Certified
 ###### Published 12/2024  
-Package Update, react root update, bug fix on barPicker color not apply when changed.  
+Package Update, React Root update, bug fix on barPicker color not applying when changed.  
 ###### Updates
 Customer found bug when trying to apply color to each bar.<br /><br />
 0 Major Changes<br />
