@@ -5,7 +5,7 @@ cynthia@sio2graphs.com
 www.sio2graphs.com  
 easy, effective, aesthetic
 
-## v1.1.5.2 Certified
+## v1.1.6.2 Certified
 ###### Published 2/2025  
 Package Update, re-render fix and table update.  
 ###### Updates
@@ -13,8 +13,9 @@ Customer found bug when switching tabs.  Visual would not re-render until prompt
 0 Major Changes<br />
 ##### 1 Minor Change<br />
 Upgrade table
-##### 1 Maintenance Improvement<br />
+##### 2 Maintenance Improvement<br />
 Update packages.
+Update typescript package.
 ##### 1 Bug Fix<br />
 Visual not displaying on tab change.
 
